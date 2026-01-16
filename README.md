@@ -8,4 +8,5 @@ This project is a Datalagring course assignment.
 
 ## Technologies
 
-
+----------------
+Setsuko Bergsjo
