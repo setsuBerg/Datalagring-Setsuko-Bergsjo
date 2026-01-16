@@ -1,6 +1,6 @@
 # Course Management System
 
-Assignment for Datalagring course.
+This project is a Datalagring course assignment.
 
 ## Project Description
 
