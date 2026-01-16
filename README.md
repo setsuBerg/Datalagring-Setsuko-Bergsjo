@@ -1,1 +1,3 @@
-# Datalagring-Setsuko-Bergsjo
+# Course Management System
+
+Assignment for Datalagring course.
